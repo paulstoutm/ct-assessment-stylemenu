@@ -48,20 +48,12 @@ h2 {margin: 0;}
         - Show each of the section headings of the menu  in small caps
         - set the font color to #6d4c41
 */
-#starters h2{
+h2{
 font-variant: small-caps; color: #6d4c41;
 }
 
 
-#soupssalads h2{
-    font-variant: small-caps; color: #6d4c41;
-}
-#entrees h2{
-    font-variant: small-caps; color: #6d4c41;
-}
-#desserts h2{
-    font-variant: small-caps; color: #6d4c41;
-}
+
 
 /* 
     Add a CSS ruleset targeting the name of each menu item to accomplish the following:
@@ -99,5 +91,5 @@ address {padding: 10px;}
 */
 footer{
     border: dashed rosybrown 2px;
-    font-family: bold;
+    
 }
